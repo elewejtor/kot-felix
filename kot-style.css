@@ -1,0 +1,73 @@
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+.kontener{
+    
+    width: 1000px;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 1px 5px 5px black;
+    
+    
+}
+
+.sekcja-gora{
+    
+    padding: 50px;
+    background-color: #373737;
+    height: 45%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.sekcja-dol{
+    
+    padding: 20px;
+    margin-left: 30px;
+    background-color: white;
+    height: 55%;
+
+}
+
+.linijka-gora{
+    
+        color: white;
+
+}
+
+
+.zdjecie-kot{
+    
+    margin: 30px;
+    width: 20%;
+    height: 20%;
+    
+}
+
+.rzad-karma{
+    
+    margin:auto;
+
+}
+
+.rzad-zdjecia-karma
+{
+    margin-top:40px;
+    display: flex;
+    align-items: center;
+}
+
+.zdjecia-karma{
+    
+   width: 300px; 
+    height: auto;
+    
+}
